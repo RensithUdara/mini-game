@@ -1,4 +1,3 @@
-import utils.session
 import pygame
 import sys
 import random
